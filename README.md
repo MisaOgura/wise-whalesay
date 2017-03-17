@@ -10,8 +10,9 @@ CMD fortune -a | cowsay
 ```
 -----
 ### Instruction
-1. Pull & run the programme - whale will give you a wise advise
-`$ docker run misaogura/wise-whalesay`
+1. [Download & install Docker](https://docs.docker.com/engine/getstarted/step_one/#step-1-get-docker)
+
+2. Pull & run the programme - whale will give you a wise advise : `$ docker run misaogura/wise-whalesay`
 ```
  _________________________________________
 / If women are supposed to be less        \
@@ -38,8 +39,7 @@ CMD fortune -a | cowsay
           \____\______/
 ```
 
-2. Try again for some more wise insights
-`$ docker run misaogura/wise-whalesay`
+3. Try again for some more wise insights : `$ docker run misaogura/wise-whalesay`
 
 ```
  ________________________________________
